@@ -7,6 +7,7 @@
 #### Misión 1: Definir el problema y el dataset ideal <br>
 
 *Escenarios posibles* <br>
+
 ![ImagenB1_1](imagenesMD/dinorunB1.png) <br></br>
 
 *P1*
@@ -36,6 +37,7 @@
 #### Misión 2: Diccionario de datos (qué debe traer el CSV) <br>
 
 *Borrador para P1* <br>
+
 ![ImagenB1_2](imagenesMD/dinorunB1_2.png) <br></br> 
 
 *Preguntas:* <br>
@@ -54,7 +56,7 @@
 
 ### Bloque 2 —  Preguntas que todo EDA debe responder <br>
 
-#### Misión 3: Las diez preguntas del analista <br>
+#### Misión 3: Las diez preguntas del analista <br></br> 
 
 ![ImagenB1_2](imagenesMD/dinorunB2_1.png) <br></br> 
 
@@ -78,7 +80,7 @@
 3. Da un ejemplo concreto de data leakage usando score o time_ms en P1. <br>
    El modelo podria empezar a usar el score final de la partida registrado en otras para predecir si el dinosaurio muere. Al ser el frame de muerte el que tiene el score mas alto de la tabla el modelo aprendera que "score alto = muere". En el momento real de predecir el frame *t*, no se sabe si el dinosaurio morirá en *t+1*; solo se conoce el score hasta *t*. Por lo que al usar el score final de otras partidas este estara usando información del futuro absoluto. Así cuando el dinosaurio lleve un score considerado alto y siga vivo, el modelo predecirá "va a morir" constantemente, fallando estrepitosamente. <br></br>
 
-#### Misión 4: Leer distribuciones sin gráfica (interpretación) <br>
+#### Misión 4: Leer distribuciones sin gráfica (interpretación) <br></br> 
 
 ![ImagenB1_2](imagenesMD/dinorunB2_2.png) <br></br> 
 
@@ -101,7 +103,7 @@
 
 ### Bloque 3 —  Del EDA a la elección del modelo <br>
 
-#### Misión 5: Árbol de decisión “dataset → modelo” <br>
+#### Misión 5: Árbol de decisión “dataset → modelo” <br></br> 
 
 ![ImagenB1_2](imagenesMD/dinorunB3_1.png) <br></br> 
 
@@ -112,6 +114,7 @@
 | *P1*<br>*¿Morirá en el siguiente frame?* | Y binaria muy desbalanceada | Regresión logística o Random Forest | 1. Ratio 239:1 entre clases.<br>2. Sin leakage de `score`/`time_ms`. |
 | *P2*<br>*¿Cuántos puntos al morir?* | Y numérica | Regresión lineal regularizada o<br> Arbol regressor | 1. Una fila por partida agregando session_id.<br>2. Sin leakage del score final. |
 | *P3*<br>*¿Qué obstáculo viene?* | Y categórica multiclase | Logística multinomial o Random Forest | 1. El target tiene 4 clases con distribucion conocida.<br>2. Sin leakage del obstáculo futuro. |
+
 <br></br>
 
 #### Misión 6: Contraejemplo — cuándo no usar un modelo <br>
