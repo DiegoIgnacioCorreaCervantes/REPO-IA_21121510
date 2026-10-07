@@ -1036,3 +1036,91 @@ class ArbolDecision:
 *Resultado* <br>
 
 ![Imagearbol](imagenesMD/pyg_arbol.png) <br></br>
+
+## Actividad Árboles de decisión y redes neuronales multicapa <br>
+<br>
+
+**Parte 1: Conceptos y definiciones** <br>
+
+1. ¿Qué es un árbol de decisión y cuál es su objetivo principal dentro de un problema de clasificación? <br>
+   a <br>
+2. Explique con sus propias palabras los siguientes elementos de un árbol de decisión: <br>
+
+   * Nodo raíz: 
+   * Nodo interno: 
+   * Rama: 
+   * Hoja: 
+   <br>
+3. ¿Qué es una red neuronal multicapa y qué función cumplen las siguientes capas? <br>
+   a <br>
+   * Capa de entrada: 
+   * Capa oculta: 
+   * Capa de salida:  
+   <br>
+4. ¿Qué representan los pesos y los sesgos dentro de una red neuronal? <br>
+   Explique también por qué sus valores cambian durante el entrenamiento. <br>
+   a <br>
+5. ¿Cuál es la principal diferencia entre la forma en que aprende un árbol de decisión y la forma en que aprende una red        neuronal multicapa? <br>
+   Explique qué elementos aprende cada modelo. <br>
+   a <br>
+
+**Parte 2: Análisis y aplicación** <br>
+
+6. Una institución bancaria desea desarrollar un sistema que detecte posibles compras fraudulentas. <br>
+   El sistema dispone de información como: <br>
+    * Monto de la compra.
+    * Hora de la operación. 
+    * Ciudad donde se realizó.
+    * Tipo de establecimiento.
+    * Número de compras realizadas durante el día.
+    * Historial de compras del cliente. <br>
+  
+   Analice las ventajas y desventajas de utilizar un árbol de decisión y una red neuronal multicapa. <br>
+   ¿Cuál utilizaría y por qué? <br>
+   a <br>
+7. Una escuela quiere detectar estudiantes que presentan riesgo de reprobar una materia. <br>
+   Se conocen variables como: <br>
+    * Asistencia.
+    * Calificaciones.
+    * Tareas entregadas.
+    * Participación.
+    * Número de materias reprobadas anteriormente. <br>
+   
+   Suponga que un árbol de decisión y una red neuronal obtienen prácticamente la misma precisión. <br>
+   ¿Qué otros factores tomaría en cuenta para elegir uno de los dos modelos? Justifique su respuesta. <br>
+   a <br>
+8. Un hospital desarrolla un sistema para determinar qué pacientes necesitan atención prioritaria utilizando: <br>
+    * Edad.
+    * Temperatura.
+    * Presión arterial.
+    * Frecuencia cardiaca.
+    * Síntomas.
+    * Antecedentes médicos. <br>
+   
+   Una red neuronal obtiene mejores resultados que un árbol de decisión, pero resulta más difícil explicar cómo obtuvo su respuesta. <br>
+   ¿Considera que la mayor precisión es suficiente para elegir la red neuronal? <br> 
+   Analice las consecuencias que podría tener esta decisión. <br>
+   a <br>
+9. Una empresa de reparto quiere predecir si un pedido llegará tarde considerando: <br>
+    * Distancia.
+    * Tráfico.
+    * Clima.
+    * Hora del día.
+    * Cantidad de pedidos.
+    * Experiencia del repartidor. <br></br>
+   
+   Para determinado pedido, el árbol de decisión indica: <br>
+   ```
+    Llegará a tiempo
+   ``` 
+   
+   mientras que la red neuronal indica: <br>
+   ```
+    Probablemente llegará tarde
+   ```
+
+   ¿Cómo determinaría cuál de los dos modelos está realizando una mejor predicción? <br>
+   Explique qué información adicional debería analizar. <br>
+   a <br>
+
+
