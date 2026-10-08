@@ -1037,32 +1037,61 @@ class ArbolDecision:
 
 ![Imagearbol](imagenesMD/pyg_arbol.png) <br></br>
 
+# Investigacion Árboles de decisión y redes neuronales multicapa <br>
+<br>
+
+![ImagenRnAd1](imagenesMD/RnAd_1.jpeg) <br></br>
+
+![ImagenRnAd2](imagenesMD/RnAd_2.jpeg) <br></br>
+
 ## Actividad Árboles de decisión y redes neuronales multicapa <br>
 <br>
 
 **Parte 1: Conceptos y definiciones** <br>
 
 1. ¿Qué es un árbol de decisión y cuál es su objetivo principal dentro de un problema de clasificación? <br>
-   a <br>
-2. Explique con sus propias palabras los siguientes elementos de un árbol de decisión: <br>
+   
+   Un árbol de decisión es un modelo de aprendizaje supervisado que representa el proceso de toma de decisiones mediante una estructura jerárquica en forma de árbol. Cada nodo interno evalúa una condición sobre una variable, cada rama representa el resultado de esa condición, y cada hoja representa una predicción final.
 
-   * Nodo raíz: 
-   * Nodo interno: 
-   * Rama: 
-   * Hoja: 
+   El objetivo principal dentro de un problema de clasificación es dividir el espacio de datos en regiones lo más puras posible, de modo que cada hoja contenga predominantemente ejemplos de una sola clase. Para lograrlo, el algoritmo elige en cada nodo la variable y el umbral que mejor separan las clases (usando métricas como Gini, entropía o ganancia de información). El resultado es un modelo interpretable que asigna una clase a cada nueva observación siguiendo el camino de decisiones. <br>
+2. Explique con sus propias palabras los siguientes elementos de un árbol de decisión: <br>
+   * Nodo raíz: Es el primer nodo del árbol, el punto de partida. Contiene la condición inicial que mejor divide el conjunto  completo de datos. A partir de él se ramifica todo el árbol.
+   * Nodo interno: Es cualquier nodo que no es raíz ni hoja. Representa una nueva pregunta o condición sobre una variable, y de él salen dos o más ramas hacia otros nodos. Su función es refinar progresivamente la decisión.
+   * Rama: Es la conexión entre un nodo y su nodo hijo. Representa el resultado de la condición evaluada en el nodo padre (por ejemplo, "sí" o "no", o un rango de valores). Cada rama conduce a un subconjunto de datos más específico.
+   * Hoja: Es un nodo terminal, sin hijos. Contiene la predicción final del modelo para las observaciones que llegan hasta ella. En clasificación, la hoja indica la clase asignada (por ejemplo, "reprobado" o "aprobado"); en regresión, un valor numérico.
    <br>
 3. ¿Qué es una red neuronal multicapa y qué función cumplen las siguientes capas? <br>
-   a <br>
-   * Capa de entrada: 
-   * Capa oculta: 
-   * Capa de salida:  
+   
+   Una red neuronal multicapa es un modelo de aprendizaje supervisado inspirado en el cerebro, formado por unidades llamadas neuronas organizadas en capas. Cada neurona recibe entradas, las pondera, les suma un sesgo y aplica una función de activación para producir una salida. Las capas se conectan secuencialmente y la información fluye de entrada a salida. <br>
+   * Capa de entrada: Recibe los datos crudos (features). Tiene tantas neuronas como variables de entrada. No realiza cálculos complejos; solo distribuye la información hacia la primera capa oculta.
+   * Capa oculta: Está entre la entrada y la salida. Puede haber una o varias. Su función es extraer representaciones intermedias y aprender relaciones no lineales entre las variables. Cada neurona combina las salidas de la capa anterior mediante pesos y sesgos, y aplica una función de activación (ReLU, sigmoide, tanh, etc.).
+   * Capa de salida: Produce la predicción final. Su tamaño y activación dependen del problema:
+     * Clasificación binaria → 1 neurona con activación sigmoide.
+     * Clasificación multiclase → *k* neuronas con activación softmax.
+     * Regresión → 1 neurona con activación lineal.
    <br>
 4. ¿Qué representan los pesos y los sesgos dentro de una red neuronal? <br>
    Explique también por qué sus valores cambian durante el entrenamiento. <br>
-   a <br>
+
+   Los pesos son valores numéricos que indican la importancia de cada conexión entre neuronas. Multiplican la entrada que llega a una neurona. Un peso alto significa que esa entrada influye mucho en la salida de la neurona; un peso cercano a cero significa que influye poco. Mientras que los sesgos son valores constantes que se suman a la suma ponderada de las entradas. Permiten desplazar la función de activación y que la neurona pueda activarse incluso cuando todas las entradas son cero. Sin sesgos, la red tendría menos flexibilidad para ajustar sus fronteras de decisión. 
+
+   La razon por la que estos cambian durante el entrenamiento es porque la red aprende ajustando estos parámetros para minimizar el error entre sus predicciones y las etiquetas reales.
+   <br>
 5. ¿Cuál es la principal diferencia entre la forma en que aprende un árbol de decisión y la forma en que aprende una red        neuronal multicapa? <br>
    Explique qué elementos aprende cada modelo. <br>
-   a <br>
+   
+    | Aspecto | Árbol de decisión | Red neuronal multicapa |
+    |---|---|---|
+    | **Qué aprende** | Reglas de decisión (condiciones sobre variables) | Pesos y sesgos de las conexiones |
+    | **Estrategia** | Divide el espacio en regiones mediante umbrales | Ajusta parámetros continuos con gradiente |
+    | **Tipo de aprendizaje** | Recursivo, greedy, basado en impureza (Gini, entropía) | Iterativo, basado en optimización de una función de pérdida |
+    | **Elementos que ajusta** | Umbrales de corte y variables de división en cada nodo | Pesos sinápticos y sesgos de cada neurona |
+    | **Interpretabilidad** | Alta (reglas legibles tipo "si... entonces...") | Baja (caja negra) |
+    | **Relaciones que captura** | No lineales por particiones discretas | No lineales complejas y suaves |
+    | **Riesgo principal** | Sobreajuste si no se poda | Sobreajuste si no se regulariza |
+    | **Datos necesarios** | Moderados | Abundantes |
+    | **Cómputo** | Bajo | Alto (GPU recomendada) |
+   <br>
 
 **Parte 2: Análisis y aplicación** <br>
 
@@ -1077,7 +1106,9 @@ class ArbolDecision:
   
    Analice las ventajas y desventajas de utilizar un árbol de decisión y una red neuronal multicapa. <br>
    ¿Cuál utilizaría y por qué? <br>
-   a <br>
+   
+   En banca, donde hay requisitos regulatorios de explicabilidad, empezaría con un árbol de decisión por su transparencia. Si el desempeño no fuera suficiente y la regulación lo permitiera, consideraría una red neuronal con técnicas de explicabilidad (SHAP, LIME) o un modelo híbrido. La decisión depende del balance entre precisión y auditabilidad.
+   <br>
 7. Una escuela quiere detectar estudiantes que presentan riesgo de reprobar una materia. <br>
    Se conocen variables como: <br>
     * Asistencia.
@@ -1088,7 +1119,16 @@ class ArbolDecision:
    
    Suponga que un árbol de decisión y una red neuronal obtienen prácticamente la misma precisión. <br>
    ¿Qué otros factores tomaría en cuenta para elegir uno de los dos modelos? Justifique su respuesta. <br>
-   a <br>
+   
+    * Interpretabilidad: los docentes y tutores necesitan entender por qué un alumno fue marcado en riesgo para intervenir adecuadamente. El árbol gana aquí.
+    * Costo de los errores: ¿es peor un falso negativo (no detectar a un alumno en riesgo) o un falso positivo (marcar a alguien que no lo está)? Si el costo del FN es alto, se prioriza el recall.
+    * Cantidad y calidad de datos: si hay pocos datos, la red neuronal puede sobreajustar; el árbol es más robusto.
+    * Facilidad de implementación y mantenimiento: el árbol es más simple de desplegar y actualizar.
+    * Aceptación por parte de los usuarios: los docentes confían más en un modelo que pueden entender.
+    * Sesgo y equidad: hay que verificar que ninguno de los modelos discrimine por género, turno o nivel socioeconómico.
+    * Tiempo de inferencia: irrelevante aquí, ambos son rápidos.
+    * Escalabilidad: si la escuela crece mucho, una red puede escalar mejor, aunque a costa de complejidad.
+   <br>
 8. Un hospital desarrolla un sistema para determinar qué pacientes necesitan atención prioritaria utilizando: <br>
     * Edad.
     * Temperatura.
@@ -1099,8 +1139,17 @@ class ArbolDecision:
    
    Una red neuronal obtiene mejores resultados que un árbol de decisión, pero resulta más difícil explicar cómo obtuvo su respuesta. <br>
    ¿Considera que la mayor precisión es suficiente para elegir la red neuronal? <br> 
+
+   No necesariamente. En un contexto médico, la explicabilidad es crítica. 
+
    Analice las consecuencias que podría tener esta decisión. <br>
-   a <br>
+   * Riesgo para el paciente: si el modelo se equivoca y no hay forma de entender por qué, no se puede corregir ni auditar. Un error en salud puede costar vidas.
+   * Responsabilidad legal y ética: los médicos son responsables de sus decisiones. Si no entienden la recomendación del modelo, no pueden asumirla con criterio.
+   * Pérdida de confianza: el personal médico puede rechazar el sistema si no lo entiende
+   * Dificultad para detectar sesgos: una red puede discriminar por edad, sexo o etnia sin que sea evidente.
+   * Imposibilidad de mejorar el modelo: sin explicabilidad, no se sabe qué variables están impulsando las decisiones.
+   * Requisitos regulatorios: en muchos países, los sistemas de apoyo a la decisión clínica deben ser auditables.   
+   
 9. Una empresa de reparto quiere predecir si un pedido llegará tarde considerando: <br>
     * Distancia.
     * Tráfico.
@@ -1121,6 +1170,43 @@ class ArbolDecision:
 
    ¿Cómo determinaría cuál de los dos modelos está realizando una mejor predicción? <br>
    Explique qué información adicional debería analizar. <br>
-   a <br>
+   
+   * Comparar con la realidad: esperar a que el pedido se entregue y verificar cuál acertó. Esto es lo más directo, pero requiere tiempo.
+   * Evaluar en un conjunto de prueba etiquetado: usar datos históricos donde ya se sabe si llegó tarde o a tiempo, y comparar métricas de ambos modelos (accuracy, F1, recall, precision, AUC).
+   * Analizar la confianza de cada modelo: la red puede dar una probabilidad (ej. 0.7 de "tarde"), el árbol puede dar una probabilidad basada en las hojas. Comparar la calibración de ambos.
+   * Revisar el caso específico: ¿qué variables tenían valores extremos? ¿el árbol se basó en una regla simple? ¿la red detectó una interacción compleja?
+   * Considerar el costo de cada tipo de error: si el costo de predecir "a tiempo" cuando llega tarde es alto, se prioriza el modelo con mayor recall para la clase "tarde".
+   
+   Informacion adicional a analizar:
+   * Historial de aciertos de cada modelo en casos similares.
+   * Distribución de los errores: ¿el árbol falla más en pedidos con mucho tráfico? ¿la red falla más en pedidos cortos?
+   * Variables influyentes en este pedido: distancia, tráfico, clima, hora. Si el caso es atípico, la red podría estar detectando algo que el árbol no ve.
+   * Explicabilidad del árbol: ver la ruta de decisión para entender por qué dijo "a tiempo".
+   * Métricas por segmento: comparar el desempeño de ambos modelos según tipo de pedido, zona, repartidor.
+   * Tiempo real: si es una decisión operativa, se puede usar un sistema de votación o un modelo ensemble que combine ambas predicciones. 
+   <br>
+10. Una empresa desarrolla dos sistemas para decidir si una persona puede recibir un crédito. <br>
+    El primer sistema utiliza un árbol de decisión y permite explicar claramente por qué una solicitud fue rechazada. <br>
+    El segundo utiliza una red neuronal multicapa y obtiene mejores resultados de predicción, pero es más difícil explicar sus decisiones. <br>
+    Si usted fuera responsable del proyecto: <br>
+     * ¿Cuál de los dos modelos utilizaría?: Usaría un enfoque híbrido, pero con el árbol de decisión como base para la decisión final, dado el contexto financiero y regulatorio. Si la diferencia de precisión es sustancial, complementaría con la red neuronal como segunda opinión o para priorizar revisiones, pero la decisión final debe ser explicable.
+     * ¿Qué ventajas tendría su elección?: 
+        * Cumplimiento regulatorio: en crédito, las decisiones deben poder justificarse (ej. GDPR, leyes de protección al + consumidor).
+        * Confianza del cliente: se puede explicar por qué se rechazó una solicitud.
+        * Auditoría interna: se puede verificar que no hay discriminación.
+        * Facilidad de mantenimiento: el árbol es más simple de actualizar.
+        * Menor riesgo legal: si un cliente demanda, se puede defender la decisión.
+     * ¿Qué riesgos tendría?:
+        * Menor precisión: el árbol puede dejar pasar algunos malos pagadores o rechazar buenos clientes.
+        * Pérdida de oportunidades: si la red detecta patrones que el árbol no, se podrían perder clientes rentables.
+        * Sobreajuste del árbol si no se poda correctamente.
+        * Inestabilidad del árbol ante cambios en los datos. 
+     * ¿Consideraría posible utilizar ambos modelos dentro del mismo sistema?: Sí, Un enfoque híbrido podría ser:
+        * Capa 1 — Árbol de decisión: filtra los casos claros (aprobación o rechazo evidente).
+        * Capa 2 — Red neuronal: evalúa los casos dudosos o borderline, donde el árbol no tiene alta confianza.
+        * Capa 3 — Explicabilidad: para los casos evaluados por la red, se aplican técnicas como SHAP o LIME para generar una explicación comprensible al cliente y al auditor.
+        * Capa 4 — Revisión humana: los casos más complejos o con alto impacto económico pasan a un analista.
+   <br>
+          
 
 
