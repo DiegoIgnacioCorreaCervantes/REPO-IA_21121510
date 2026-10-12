@@ -1206,7 +1206,11 @@ class ArbolDecision:
         * Capa 2 — Red neuronal: evalúa los casos dudosos o borderline, donde el árbol no tiene alta confianza.
         * Capa 3 — Explicabilidad: para los casos evaluados por la red, se aplican técnicas como SHAP o LIME para generar una explicación comprensible al cliente y al auditor.
         * Capa 4 — Revisión humana: los casos más complejos o con alto impacto económico pasan a un analista.
-   <br>
-          
+   <br></br>
 
+
+# Actividad Matriz de convolución a mano <br>
+<br>
+
+![ImagenRnAd1](imagenesMD/MatrizC.jpeg) <br></br>
 
