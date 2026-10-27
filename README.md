@@ -1214,3 +1214,65 @@ class ArbolDecision:
 
 ![ImagenRnAd1](imagenesMD/MatrizC.jpeg) <br></br>
 
+# Actividad CNN sports <br>
+<br>
+
+Learning rate: 0.001 <br>
+Epocas: 20 <br>
+Cantidad de imagenes tomadas: 64 <br>
+Capas: 1 <br>
+
+Imagenes correctas: 11686 <br>
+Imagenes incorrectas: 3740 <br>
+
+Tabla de error: <br>
+
+![MatrizEr1](imagenesMD/MatrizEr1.png) <br></br>
+
+Learning rate: 0.003 <br>
+Epocas: 20 <br>
+Cantidad de imagenes tomadas: 64 <br>
+Capas: 1 <br>
+
+Imagenes correctas: 13983 <br>
+Imagenes incorrectas: 1443 <br>
+
+Tabla de error: <br>
+
+![MatrizEr2](imagenesMD/MatrizEr2.png) <br></br>
+
+Learning rate: 0.001 <br>
+Epocas: 20 <br>
+Cantidad de imagenes tomadas: 64 <br>
+Capas: 2 <br>
+
+Imagenes correctas: 11686 <br>
+Imagenes incorrectas: 3740 <br>
+
+Tabla de error: <br>
+
+![MatrizEr3](imagenesMD/MatrizEr3.png) <br></br>
+
+Learning rate: 0.003 <br>
+Epocas: 50 <br>
+Cantidad de imagenes tomadas: 64 <br>
+Capas: 2 <br>
+
+Imagenes correctas: 14505 <br>
+Imagenes incorrectas: 921  <br>
+
+Tabla de error: <br>
+
+![MatrizEr4](imagenesMD/MatrizEr4.png) <br></br>
+
+Learning rate: 0.005 <br>
+Epocas: 30 <br>
+Cantidad de imagenes tomadas: 64 <br>
+Capas: 3 <br>
+
+Imagenes correctas: 14673 <br>
+Imagenes incorrectas: 753 <br>
+
+Tabla de error: <br>
+
+![MatrizEr5](imagenesMD/MatrizEr5.png) <br></br>
