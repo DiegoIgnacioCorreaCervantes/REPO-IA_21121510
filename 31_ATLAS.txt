@@ -1,0 +1,167 @@
+(NASA)
+Información general
+El cometa 3I/ATLAS es el tercer objeto que proviene del exterior de nuestro sistema solar que se ha descubierto hasta ahora. Los 
+astrónomos han categorizado este objeto como interestelar debido a la forma hiperbólica de su trayectoria orbital. (Su órbita no 
+sigue una trayectoria cerrada alrededor del Sol). Cuando se rastrea la órbita de 3I/ATLAS hasta el pasado, se observa claramente 
+que el cometa viene desde afuera de nuestro sistema solar.
+
+El telescopio de sondeo Sistema de Última Alerta de Impacto Terrestre de Asteroides (ATLAS, por sus siglas en inglés) en Río Hurtado, 
+Chile, financiado por la NASA, fue el primero en informar sobre sus observaciones del cometa 3I/ATLAS al Centro de Planetas Menores, 
+el 1 de julio de 2025. Desde ese primer informe, se recopilaron las observaciones hechas antes del descubrimiento en los archivos de 
+tres telescopios ATLAS en diferentes partes del mundo y en la Instalación de Fenómenos Transitorios Zwicky de Caltech, en el Observatorio 
+Palomar del condado de San Diego, California. Estas observaciones “previas al descubrimiento” se remontan al 14 de junio.
+
+Cómo este cometa obtuvo su nombre
+Los cometas generalmente reciben el nombre de la persona o el equipo que lo descubre, en este caso el equipo de los sondeos de ATLAS. 
+La letra “I” es para “interestelar”, lo que indica que este objeto vino desde afuera de nuestro sistema solar. Es el tercer objeto 
+interestelar conocido, de ahí el “3” en el nombre.
+
+A partir de observaciones con telescopios, los astrónomos pueden determinar que 3I/ATLAS está activo, lo que significa que tiene un núcleo 
+helado y una coma (una nube brillante de gas y polvo que rodea a un cometa cuando se acerca al Sol). Por eso los astrónomos lo clasifican 
+como un cometa y no como asteroide.
+
+Los astrónomos aún no saben exactamente qué tan grande es 3I/ATLAS pero, a partir de las observaciones del telescopio espacial Hubble al 20 
+de agosto de 2025, pueden ver que el diámetro de su núcleo no es menor a 440 metros (1,444 pies) ni mayor a 5,6 kilómetros (3,5 millas).
+
+¿Existe el peligro de que este objeto interestelar choque con la Tierra?
+No. Aunque la trayectoria del 3I/ATLAS lo llevó justo dentro de la órbita de Marte, ahora se aleja del Sol y no se acercará en absoluto a la 
+Tierra. En su punto más cercano, el cometa seguirá estando muy lejos de nuestro planeta, a casi el doble de la distancia del Sol: el 19 de 
+diciembre de 2025, 3I/ATLAS estará a unas 1,8 unidades astronómicas (unos 270 millones de kilómetros) de la Tierra.
+
+¿Qué tan rápido se mueve?
+Muy rápido. Cuando fue descubierto dentro de la órbita de Júpiter, este cometa interestelar viajaba a unos 221.000 kilómetros por hora 
+(137.000 millas por hora).
+Desde entonces, 3I/ATLAS ha continuado en su trayectoria (hiperbólica) prevista. Atraído por la gravedad del Sol, su velocidad aumentó como 
+se esperaba, alcanzando los 246.000 kilómetros por hora (153.000 millas por hora) en el perihelio, su aproximación más cercana al Sol.
+Ahora, al alejarse del Sol, la velocidad del cometa está disminuyendo como se esperaba, ya que continúa siendo afectado por la atracción 
+gravitatoria del Sol. Cuando el cometa abandone el sistema solar, viajará a la misma velocidad a la que entró.
+
+Cuando los cometas se acercan al Sol, se calientan y liberan gas a medida que sus hielos se subliman. Esta desgasificación puede causar 
+pequeñas perturbaciones, o cambios muy leves, en su trayectoria. Las observaciones de 3I/ATLAS muestran que estas perturbaciones son, 
+efectivamente, pequeñas y compatibles con este proceso.
+
+¿Se puede ver el cometa desde tierra?
+En octubre de 2025, el cometa pasó detrás del Sol y ahora es nuevamente observable desde la Tierra. De hecho, las observaciones astrométricas 
+se reanudaron el 31 de octubre.
+3I/ATLAS puede ser observado en el cielo antes del amanecer, incluso con un pequeño telescopio, y permanecerá observable hasta la primavera 
+boreal de 2026.
+
+(National Geographic)
+El enigmático 3I/ATLAS ha mutado ante el Sol: ¿es una prueba de que es de origen artificial?
+El Telescopio Óptico Nórdico, ubicado en el Teide, detecta una transformación crítica en la estructura de 3I/ATLAS, el tercer objeto interestelar conocido.
+
+3I/ATLAS, un objeto venido de las afueras del sistema solar, acaba de sufrir una transformación: su anticola, esa estela que apuntaba de forma desconcertante hacia el Sol, ha mutado. Lo que era una rareza astronómica ahora es una revelación que pone patas arriba las hipótesis vigentes sobre su composición, comportamiento y, sobre todo, su origen.
+Desde el majestuoso paraje del Observatorio del Teide, las imágenes captadas por el Telescopio Óptico Nórdico de 2,5 metros revelaron este septiembre un fenómeno que en julio y agosto parecía imposible: el repliegue de la anticola y la formación de una cola clásica, esa que se aleja del Sol como dictan las leyes físicas tradicionales.
+A medida que se acercaba al astro rey, 3I/ATLAS abandonó su comportamiento excéntrico y se alineó con lo esperable... al menos en apariencia.
+
+Este giro ha despertado un renovado interés científico, en especial por parte de investigadores como David Jewitt y Jane Luu (dos pioneros en la exploración de cuerpos transneptunianos), quienes han analizado la tasa de pérdida de masa del objeto.
+
+Dicha pérdida, calculada con precisión, revela una relación directa con la intensidad de la radiación solar, lo que sugiere que el dióxido de carbono (CO₂) actúa como principal agente volátil. Esta hipótesis se apoya en estudios espectroscópicos previos realizados por el telescopio espacial SPHEREx y el telescopio James Webb.
+
+Los espectros de alta resolución tomados por el Webb revelaron que a 3,32 unidades astronómicas (ua) del Sol, 3I/ATLAS estaba perdiendo materia a razón de 150 kilogramos por segundo. Su núcleo parece compuesto en un 87% por CO₂, un 9% por monóxido de carbono (CO) y solo un 4% de agua en forma de hielo (H₂O), un perfil químico tan exótico como revelador.
+En julio de 2025, las observaciones del Hubble mostraban una anticola que se proyectaba hacia el Sol como un chorro, con una relación de elongación 10:1, una señal de que algo inusual estaba ocurriendo.
+
+Pérdida de masa
+Hasta la fecha, la masa perdida por 3I/ATLAS durante su paso por el sistema solar interno ronda los 2 millones de toneladas. Pero este número, aparentemente colosal, representa una ínfima fracción de su volumen: menos de 0,00005 del total. Estimaciones dinámicas realizadas por Loeb, Cloete y Veres apuntan a una masa total superior a los 33.000 millones 
+de toneladas, deducida por la ausencia de fuerzas no gravitatorias detectables. La fina capa erosionada del objeto (de apenas 4 cm en su superficie) equivale a la diferencia entre la palma de una mano y la longitud de Manhattan, una imagen poética que recuerda cuán poco sabemos de lo que hay bajo su superficie.
+
+¿Origen artificial?
+Avi Loeb, líder del ambicioso Proyecto Galileo y autor de Extraterrestrial, insiste en que 3I/ATLAS no puede descartarse como una mera roca helada. Su masa, su trayectoria alineada con el plano de la eclíptica y su comportamiento inusual lo convierten en un caso que, al menos, merece una categoría 2 en su escala propia de posibles orígenes artificiales. 
+Una reducción frente a las expectativas iniciales, sí, pero aún muy por encima del umbral de la normalidad cósmica. Sin embargo, dentro de la comunidad científica hay voces que se alzan con escepticismo ante las interpretaciones más audaces de Avi Loeb. Numerosos astrónomos sostienen que el comportamiento observado en 3I/ATLAS es perfectamente compatible 
+con procesos cometarios naturales, sin necesidad de apelar a hipótesis extraordinarias. 
+
+Investigadores del Instituto Max Planck, del Jet Propulsion Laboratory y de varios observatorios europeos han señalado que la evolución de su cola, la composición rica en CO₂ y la pérdida de masa observada encajan dentro del marco clásico de sublimación volátil en objetos interestelares. Para estos expertos, la masa elevada de 3I/ATLAS y su alineación orbital 
+no constituyen pruebas suficientes de artificialidad, sino variables dentro de una estadística aún pobremente muestreada.
+
+Las próximas observaciones (previstas para diciembre de 2025, cuando el objeto se acerque a la Tierra) podrían ser decisivas. Bajo una radiación solar que se estima en 33 gigavatios durante su paso más cercano al Sol, 3I/ATLAS enfrentará su momento de verdad. Si resiste como lo haría un cometa natural, su misterio podría diluirse. Pero si muestra desviaciones, 
+anomalías o estructuras inesperadas... entonces estaremos ante un visitante que quizás no sea del todo natural.
+
+(starwalk)
+Cometa 3I/ATLAS: lo más importante sobre este visitante interestelar
+En 2025 dimos la bienvenida a un visitante poco común en nuestros cielos: el cometa interestelar 3I/ATLAS. Es solo el tercer objeto interestelar descubierto, lo que lo convierte en un visitante verdaderamente excepcional. Pero algunos sostienen una posibilidad más audaz: ¿podría tratarse de una sonda alienígena atravesando nuestro Sistema Solar? Sea cual sea tu 
+creencia, 3I/ATLAS ofreció a los astrónomos una oportunidad poco común de estudiar material procedente de otro sistema estelar. En este artículo repasamos qué ocurrió durante su paso por el Sistema Solar y qué lograron averiguar los científicos sobre este objeto extraordinario.
+
+¿Qué es el objeto interestelar 3I/ATLAS?
+3I/ATLAS es el tercer objeto interestelar conocido —un visitante excepcional que llega desde más allá de nuestro Sistema Solar. Fue detectado por primera vez el 1 de julio de 2025 por el telescopio de sondeo ATLAS en Chile. La postura oficial, respaldada por NASA, ESA y la mayoría de los astrónomos, es clara: 3I/ATLAS es un cometa natural — el tercer objeto 
+interestelar confirmado, después de ‘Oumuamua y el cometa 2I/Borisov. Pero no todos están convencidos, y algunos opinan que sus propiedades inusuales dejan espacio para explicaciones más exóticas.
+
+¿Es 3I/ATLAS una nave alienígena o un cometa? Profesor de Harvard vs. comunidad científica
+Desde su descubrimiento, el astrónomo de Harvard, Avi Loeb, ha cuestionado si 3I/ATLAS es un cometa común. Señala su brillo inusual, su trayectoria precisa a través del Sistema Solar y la ausencia de desgasificación cometaria evidente en sus inicios, argumentando que no se comporta como un cometa. En comentarios posteriores, Loeb destacó su inesperada estabilidad 
+y gran masa, especulando con que un cambio de rumbo cerca del Sol podría apuntar a propulsión tecnológica en lugar de fuerzas naturales. Incluso bromeó diciendo que la gente debería “tomarse las vacaciones antes del 29 de octubre”, la fecha en que el cometa alcanzó el perihelio, por si al final se trataba de algo mucho más extraño de lo esperado.
+
+Sin embargo, la mayoría de los astrónomos no están convencidos. Las observaciones del Hubble, SPHEREx y las sondas de la ESA en órbita alrededor de Marte muestran indicios de un cometa clásico: un pequeño núcleo helado, una coma rica en dióxido de carbono, ráfagas de vapor de agua e incluso una rara anticola causada por la geometría de observación. La evidencia 
+demuestra que 3I/ATLAS fue un cometa natural excepcional, que brindó a los científicos una visión sin precedentes de la composición química de los objetos interestelares.
+
+Resumen de 3I/ATLAS: momentos clave
+Han pasado muchas cosas desde que el cometa interestelar 3I/ATLAS irrumpió en escena. Cambió de aspecto, desapareció tras el Sol, pasó cerca de Marte y se convirtió en el objetivo de una gran campaña internacional de observación. Aquí tienes un repaso de los momentos más importantes en la historia de este misterioso visitante de otro sistema estelar.
+20 de sep: Los astrónomos detectan un misterioso brillo verde alrededor de 3I/ATLAS, probablemente causado por gases inusuales.
+23 de sep: Una nueva teoría sugiere que 3I/ATLAS podría ser una “semilla formadora de planetas”, un remanente que ayuda a crear mundos en sistemas jóvenes.
+23 de sep: Se predice que una tormenta solar impactará el cometa, el primer evento de este tipo con un visitante interestelar.
+25 de sep: Avi Loeb señaló que el cometa no muestra aceleración no gravitacional y podría ser anormalmente masivo.
+28 de sep: Loeb vinculó a 3I/ATLAS con la legendaria “Señal Wow!” de 1977, mientras el cometa pasaba por la misma región del cielo.
+29 de sep: El cometa sobrevivió ileso a una tormenta solar, a diferencia de muchos cometas del Sistema Solar.
+30 de sep: 3I/ATLAS pasó detrás del Sol, desapareciendo de la vista hasta finales de noviembre.
+1 de oct: El cometa se aproximó a Marte, ofreciendo a las sondas y rovers de la NASA la oportunidad de observarlo de cerca.
+5 de oct: Una nueva foto orbital de Marte confirmó el tenue brillo del cometa.
+7 de oct: Las misiones ExoMars y Mars Express de la ESA capturaron nuevas imágenes mostrando la delicada coma del cometa.
+7 de oct: El observatorio Swift de la NASA detectó vapor de agua, la primera detección confirmada en un cometa interestelar a una distancia heliocéntrica tan grande.
+19 de oct: El Observatorio Keck detectó una rara anticola que parecía apuntar al Sol por la geometría de observación.
+21 de oct: Mientras el cometa se ocultaba tras el Sol, Loeb sugirió que podría usar el efecto Oberth para cambiar de rumbo sin ser visto.
+29 oct.: 3I/ATLAS sobrevivió a su paso cercano al Sol, aumentando de brillo de forma repentina.
+2 nov.: 3I/ATLAS volvió a ser visible tras perderse en el resplandor del Sol.
+4 nov.: El cometa interestelar 3I/ATLAS pareció cambiar de color otra vez: imágenes recientes mostraron un tono azulado.
+5 nov.: Cuando 3I/ATLAS dejó el perihelio, los investigadores observaron una pequeña desviación en la trayectoria del cometa, lo que dio pie a rumores de que había cambiado de rumbo.
+10 nov.: Las últimas imágenes desde España mostraron claramente dos colas distintas en 3I/ATLAS: una cola de polvo amplia y una anticola más rara extendiéndose en dirección al Sol.
+10 nov.: El radiotelescopio MeerKAT en Sudáfrica detectó una señal de radio procedente de 3I/ATLAS: una emisión de fondo constante típica del gas y el polvo en el espacio, no una señal modulada que transporte información.
+11 nov.: Nuevas observaciones sugirieron que 3I/ATLAS fue transformado por los rayos cósmicos galácticos durante su largo viaje entre las estrellas, dejando una capa exterior procesada.
+11 nov.: El astrónomo de Harvard Avi Loeb supuso que 3I/ATLAS podría no haber sobrevivido a su roce cercano con el Sol.
+20 nov.: La NASA por fin publicó las imágenes tan esperadas de 3I/ATLAS tomadas durante su sobrevuelo cercano de Marte a principios de octubre.
+25 nov.: La International Asteroid Warning Network (IAWN) anunció su campaña especial de astrometría para 3I/ATLAS, que se prolongó del 27 de noviembre de 2025 al 27 de enero de 2026.
+1 dic.: Nuevas imágenes sugirieron que 3I/ATLAS podría haber estado cubierto de “volcanes de hielo”, con chorros en espiral saliendo de su superficie.
+1 dic.: Avi Loeb propuso que el brillo del cometa podría haber pulsado como un “latido” cada 16 horas, aunque no surgió una interpretación de consenso.
+10 dic.: Una región activa gigante del Sol se alineó con la trayectoria del cometa, aumentando la posibilidad de que 3I/ATLAS fuera alcanzado por plasma procedente de potentes erupciones solares.
+10 dic.: El astrofotógrafo Osama Fathi captó una imagen impactante de 3I/ATLAS sobre el Desierto Negro de Egipto, mostrando su delicado brillo menguante.
+11 dic.: La NASA reiteró que 3I/ATLAS no representaba peligro para la Tierra antes de su acercamiento del 19 de diciembre de 2025 a unos 1,8 AU.
+19 dic.: 3I/ATLAS realizó su máximo acercamiento a la Tierra, manteniéndose a una distancia segura y ofreciendo una de las últimas grandes oportunidades de observación.
+A comienzos de 2026: El cometa continuó alejándose por su trayectoria hiperbólica, mientras que las observaciones pasaron del seguimiento en tiempo real al análisis de los datos recogidos.
+
+Cometa ATLAS: Preguntas frecuentes
+¿Por qué es especial el cometa 3I/ATLAS?
+Para empezar, es un auténtico objeto interestelar, lo que significa que no se formó en nuestro Sistema Solar, sino que proviene de otro sistema estelar. Estos objetos son increíblemente raros, por lo que cada uno genera un gran revuelo. Además, las primeras estimaciones indican que su núcleo podría alcanzar los 5 kilómetros de diámetro, lo que lo convierte en uno de 
+los cuerpos interestelares más grandes jamás detectados.
+
+¿Cómo sabemos que 3I/ATLAS no proviene de nuestro Sistema Solar?
+Su trayectoria inusual fue la primera gran pista: no era cerrada, sino de forma hiperbólica, así que los astrónomos sospecharon que el cometa no era local. Más tarde, los cálculos orbitales lo confirmaron: 3I/ATLAS sigue una trayectoria claramente hiperbólica, con una velocidad y un exceso de energía característicos de los objetos interestelares y demasiado altos 
+para una órbita gravitacionalmente ligada al Sol.
+
+¿Golpeará el cometa 3I/ATLAS la Tierra?
+No hay razón para preocuparse: el cometa 3I/ATLAS pasó por la parte interna de nuestro sistema planetario, pero se mantuvo muy lejos de la Tierra. Su máximo acercamiento ocurrió el 19 de diciembre de 2025. La distancia entre ambos cuerpos fue de unos 1,8 UA, aproximadamente 269 millones de km — casi el doble de la distancia promedio entre la Tierra y el Sol.
+
+¿Cuándo abandonará 3I/ATLAS el Sistema Solar?
+Tras su máximo acercamiento al Sol a finales de octubre de 2025, 3I/ATLAS comenzó su viaje de regreso al espacio interestelar. Viajando a alrededor de 30 km/s en una trayectoria claramente hiperbólica, se mueve lo bastante rápido como para escapar por completo de la gravedad del Sol. En su salida, el cometa alcanzó su máximo acercamiento a la Tierra el 19 de 
+diciembre de 2025 y cruzó más allá de la órbita de Júpiter hacia el 16 de marzo de 2026. A comienzos de la década de 2030, habrá abandonado la región planetaria del Sistema Solar.
+
+¿Está confirmado que 3I/ATLAS es un cometa? ¿Podría ser una nave alienígena?
+Lo más probable es que 3I/ATLAS sea un cometa. Tiene un núcleo helado, emite gas y polvo, y desarrolla una coma y una cola — comportamiento clásico de un cometa (puedes consultar nuestro artículo especial sobre cometas para saber más). Tal vez esperábamos encontrar amigos alienígenas… pero esta vez, no será así.
+La gente quiere creer, por eso tantas cosas comunes se confunden con ovnis: desde globos hasta satélites artificiales en el cielo nocturno. 
+
+(HOTACERO)
+El cometa 31/Atlas y la desinformación
+Recientemente el cometa llamado 31/Atlas ha dado de qué hablar en las últimas semanas en redes sociales por su cercanía a la Tierra y su constante seguimiento por parte de la NASA y demás organizaciones espaciales.
+Sin embargo diversas “fake news” y noticias sensacionalistas han sido compartidas por medios oficiales y redes sociales.
+Una de las más sonadas es la presencia de vida “alienígena” y un supuesto protocolo activado por la NASA en caso de posibles amenazas.
+Esta es una de las noticias que más abundan y han circulado en Facebook, pero nada lejos de la realidad pues en ningún momento se ha emitido un comunicado de este protocolo de manera oficial. (Con información de Jonás Arroyo/ UT)
+
+(Gemini)
+El cometa interestelar 3I/ATLAS ha sido blanco de numerosas noticias sensacionalistas, rumores virales y desinformación desde su descubrimiento en julio de 2025. Al ser el tercer objeto conocido que proviene de fuera de nuestro sistema solar, su naturaleza inusual alimentó narrativas exageradas en redes sociales (como TikTok y Facebook) y medios digitales.
+
+La falacia de la "Nave Extraterrestre" o "Colonia Alienígena": Videos virales y publicaciones alternativas usaron audios e imágenes modificadas con Inteligencia Artificial para asegurar que el 3I/ATLAS no era un cuerpo celeste, sino una nave alienígena avanzada con rumbo a la Tierra o un artefacto tecnológico diseñado para colonizarnos. Esta teoría fue impulsada 
+en parte por figuras como el astrofísico Avi Loeb, quien destacó anomalías en su trayectoria y forma (como filamentos rectos en forma de X o aceleraciones no gravitacionales), abriendo el debate sobre un origen tecnológico.
+
+La falsa "Amenaza Inminente de Impacto": Diversos titulares lo catalogaron como una amenaza cercana apocalíptica, exagerando drásticamente su tamaño y velocidad para sugerir un peligro inminente de colisión con el planeta.
+
+Titulares de "Ocultamiento Espacial": Canales de conspiración viralizaron la idea de que agencias como la NASA estaban ocultando la verdad sobre el objeto para evitar el pánico colectivo, intentando disfrazar un supuesto fenómeno tecnológico como un cometa común.
+
+La realidad científica
+Tanto la NASA como múltiples observatorios internacionales (utilizando telescopios como el Hubble y el James Webb) confirmaron de manera concluyente que 3I/ATLAS es un cometa interestelar natural altamente activo. Los datos científicos desmintieron categóricamente cualquier peligro: su distancia mínima de acercamiento fue totalmente segura (a unos 270 millones de 
+kilómetros de la Tierra), y sus llamativas características (como los chorros simétricos de gas) corresponden a actividad criovolcánica provocada por la sublimación de sus propios hielos al acercarse al Sol.
